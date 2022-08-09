@@ -14,4 +14,4 @@ The second approach (Revised_solution_CellProfiler_ilastik) was created by Melis
 
 More details can be found for both approaches on their respective blogposts:
   * [Thinking like an Image Analyst](https://carpenter-singh-lab.broadinstitute.org/blog/thinking-image-analyst-part-i-project-overview-and-data-import) by Pearl Ryder
-  * [Customizing a Model for Fiber Segmentation](https://carpenter-singh-lab.broadinstitute.org/blog/customizing-model-fiber-segmentation-part-i-investigating-possible-methods) by Melissa Gillis
+  * Customizing a Model for Fiber Segmentation (coming soon) by Melissa Gillis
